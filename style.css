@@ -1,4 +1,7 @@
 .text{
     color: red;
     font-size: 50px;
+    text-align: center;
+    border: 2px solid #000;
 }
+
